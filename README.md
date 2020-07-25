@@ -1,7 +1,7 @@
 # golang-code-education
 
 
-Simple Hello Word in Golang using docker to create an image.
+A Simple function in Golang using docker to create an small image.
 
 
 
