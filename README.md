@@ -1,7 +1,7 @@
 # golang-code-education
 
 
-A Simple function in Golang using docker to create an small image.
+A Simple function in Golang using docker to create a small image.
 
 
 
