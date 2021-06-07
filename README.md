@@ -13,23 +13,23 @@ go run main.go
 ## Build Docker
 
 ```
-docker build -t yourLogin/go-scratch . 
+docker build -t yourLogin/codeeducation . 
 ```
 
 ## Run Docker
 ```
-docker run  yourLogin/go-scratch
+docker run  yourLogin/codeeducation
 ```
 
 ## Push to Docker Hub
 ```
 docker login
 
-docker push yourLogin/go-scratch
+docker push yourLogin/codeeducation
 ```
 ## Docker Image
 ```
-docker pull evertonbzra/go-scratch
+docker pull evertonbzra/codeeducation
 ```
 
 
